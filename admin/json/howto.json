@@ -1,0 +1,34 @@
+{
+    "code": "success",
+    "message": "Success",
+    "data": [
+        {
+            "link": "https:\/\/www.bvnode.com\/knowledge-base\/how-to-use\/how-to-use-with-beaver-builder\/",
+            "title": {
+                "rendered": "How to use with Beaver Builder"
+            },
+            "featured_image": "\/admin\/json\/img\/Integration-with-Yoast-SEO-150x150.webp"
+        },
+        {
+            "link": "https:\/\/www.bvnode.com\/knowledge-base\/how-to-use\/how-to-use-with-divi\/",
+            "title": {
+                "rendered": "How to use with Divi"
+            },
+            "featured_image": "\/admin\/json\/img\/Integration-with-Yoast-SEO-150x150.webp"
+        },
+        {
+            "link": "https:\/\/www.bvnode.com\/knowledge-base\/how-to-use\/how-to-use-with-elementor\/",
+            "title": {
+                "rendered": "How to use with Elementor"
+            },
+            "featured_image": "\/admin\/json\/img\/Integration-with-Yoast-SEO-150x150.webp"
+        },
+        {
+            "link": "https:\/\/www.bvnode.com\/knowledge-base\/how-to-use\/how-to-use-with-visual-composer\/",
+            "title": {
+                "rendered": "How to use with Visual Composer"
+            },
+            "featured_image": "\/admin\/json\/img\/Integration-with-Yoast-SEO-150x150.webp"
+        }
+    ]
+}
